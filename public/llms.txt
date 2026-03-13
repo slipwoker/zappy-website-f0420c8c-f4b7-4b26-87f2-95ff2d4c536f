@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Automate support tickets in Discord with our powerful bot. Server admins love our custom ticket management system for seamless community support.
+
+### Capabilities
+https://example.com/capabilities
+Discover advanced ticket automation, custom workflows, and community management tools. Our Discord bot maker technology powers effortless support systems.
+
+### Plans
+https://example.com/plans
+Choose the perfect plan for your Discord server. Flexible pricing for ticket management bots that scale with your community&#39;s support needs.
+
+### Contact
+https://example.com/contact
+Ready to streamline Discord support? Contact us to deploy the best discord bots for ticket management. Our team helps admins launch in minutes.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
